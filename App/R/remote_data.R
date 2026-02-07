@@ -3,12 +3,12 @@
 # library(ggrepel)
 # library(AzureStor)
 
-# Read modules
-source("Code/modules.R")
 # Read common functions
 source("Code/functions.R")
 # Read geospatial data and color pallets 
 source("Code/global.R")
+# Read modules
+source("Code/modules.R")
 
 
 dim_dir <- "Demographic"
